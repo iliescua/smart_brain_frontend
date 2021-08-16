@@ -1,10 +1,5 @@
 # Smart Brain React Website
 
-To run project you will need to clone the repo then run:
-
-
-### `npm install`
-
-
-Then run:
-### `npm start`
+Built a website using React.js that utilizes an Express.js server and PostgreSQL database to store user
+credentials, verify user information, displaying accurate user profiles with a response and appealing
+design, and allow the user to search any image for faces using the Clarifai Api. 
